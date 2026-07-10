@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+.vscode/
+
+# Test / generated files
+music.wav
+painting.png
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.py
